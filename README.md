@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  🛒 E-GROCERY-STORE
 # Live Site Link
 
-👁️‍🗨️See the live site [Open]()
+👁️‍🗨️See the live site [Open](https://e-grocery-store-6f8df.web.app/)
 
 ### `Which Feature add in the website`
 
