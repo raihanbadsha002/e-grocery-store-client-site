@@ -1,0 +1,9 @@
+.orderPage_height{
+    height: 88vh;
+}
+
+@media (max-width: 991.98px) { 
+    .orderPage_height{
+        height: 100vh;
+    }
+ }

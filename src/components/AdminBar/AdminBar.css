@@ -1,0 +1,8 @@
+.adminBar_height{
+    height: 88vh;
+}
+@media (max-width: 575.98px) { 
+    .adminBar_height{
+        height: 40vh;
+    }
+}
