@@ -1,6 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Website Name
 
  🛒 E-GROCERY-STORE
@@ -8,9 +5,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 👁️‍🗨️See the live site [Open](https://e-grocery-store-6f8df.web.app/)
 
+# Description
+  ❖ Customers can order various products on the grocery store website. For that, firstly the customer
+    has to login and then order the product as per his choice. The customer will be able to see the
+    details of his product. And the admin will be able to add different products.
+       
 ### `Which Feature add in the website`
-
-🔊 Spinner
+     🔊 Spinner
+     🔊 Add product 
+     🔊 login system
+     🔊 Firebase Authentication
+     🔊 Loading Spinner.
 ### `Which has been used in the website`
     👉 "@material-ui/core": "^4.11.3",
     👉 "@material-ui/icons": "^4.11.2",
@@ -23,14 +28,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     👉 "react-router-dom": "^5.2.0",
     👉 "react-scripts": "4.0.3",
     👉 "web-vitals": "^1.1.1"
-
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
